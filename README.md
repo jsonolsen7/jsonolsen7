@@ -26,13 +26,12 @@ When I'm not coding, I try to get outdoors as much as possible, spend quality ti
 
 Here's an example project readme - [Example ReadMe](https://github.com/nology-tech/Example-RM)
 
-## My Work - This should be where you link to the code your challenge solutions
+## My Work During Nology Training
 
 ### Week 1
 
-#### HTML - Link to separate repo containing challenges, this repo should contain a readme that has screenshots of project and an overview of what you learned in class. Remember screenshots!
-
-#### CSS 
+#### HTML & CSS
+1. Prework - [Module Project](https://github.com/jsonolsen7/module-project)
 
 #### Flexbox & Grid
 
