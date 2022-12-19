@@ -16,25 +16,20 @@ When I'm not coding, I try to get outdoors as much as possible, spend quality ti
 2. <a target=_blank href=https://github.com/jaolsen7/plant-swap>Plant Swap Lite</a> - This project is a mobile-responsive MERN application that connects plant lovers in the same zip code for houseplant exchanges. This CRUD app allows users to post their favorite plant species and comment on other users posts in order to communicate if they want to swap. Live demo/Heroku deployment no longer working...
 3. TBD
 
-### All projects should containing a readme explaining, 
-1. What the project does
-2. Requirements
-3. How to use it, installation steps etc
-4. Technologies used
-5. Considerations you had to make (how you approached the project)
-6. All this should be backed up by screenshots
-
-Here's an example project readme - [Example ReadMe](https://github.com/nology-tech/Example-RM)
-
 ## My Work During Nology Training
 
-### Week 1
+### Week 1 & Prework
 
-#### HTML & CSS
-1. Prework - [Module Project](https://github.com/jsonolsen7/module-project)
+#### HTML & CSS Lessons:
+1. [Web Fundamentals](https://github.com/jsonolsen7/web-fundamentals)
+2. [CSS Flag Challenge](https://github.com/jsonolsen7/css-flag-challenge)
 
-#### Flexbox & Grid
+#### Flexbox & Grid:
+1. [Flexbox Challenge](https://github.com/jsonolsen7/flexbox-challenge)
+2. [Flower Power Grid Gallery](https://github.com/jsonolsen7/grid-gallery)
 
-#### SCSS
+#### SCSS:
+1. [Module Project](https://github.com/jsonolsen7/module-project)
+2. [Sass Travel Cards](https://github.com/jsonolsen7/sass-travel-cards)
 
 ### Week 2
