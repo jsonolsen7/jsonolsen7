@@ -33,3 +33,22 @@ When I'm not coding, I try to get outdoors as much as possible, spend quality ti
 2. [Sass Travel Cards](https://github.com/jsonolsen7/sass-travel-cards)
 
 ### Week 2
+
+#### Intro to Python
+1. [Python Lessons](https://github.com/jsonolsen7/python-lessons)  
+    a. lists, tuples, and dictionaries:  
+    &emsp; practice.py  
+    b. classes, namedtuples, and entry points:  
+    &emsp; classes.py, namedtuples.py, and entry_points.py  
+    c. functions(filter, map, reduce, palindrome) and challenges:  
+    &emsp; type_practice.py and challenge.py  
+2. [Command Line Story Project](https://github.com/jsonolsen7/python-lessons)  
+    a. story_project.py  
+    b. story_project.log
+
+### Week 3
+
+#### Intro to Flask
+1. [Basic Business Page](https://github.com/jsonolsen7/python-lessons)  
+    a. app.py, /templates, /static
+2. []
