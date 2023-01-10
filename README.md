@@ -52,3 +52,9 @@ When I'm not coding, I try to get outdoors as much as possible, spend quality ti
 1. [Basic Business Page](https://github.com/jsonolsen7/python-lessons)  
     a. app.py, /templates, /static
 2. [Flask Room Temp API](https://github.com/jsonolsen7/flask-lessons)
+
+### Week 4
+
+#### Unit Testing
+1. [Story Project Test](https://github.com/jsonolsen7/testing-intro)
+2. [Test Driven Dev - Zoo Inventory](https://github.com/jsonolsen7/zoo-inventory)
