@@ -58,3 +58,19 @@ When I'm not coding, I try to get outdoors as much as possible, spend quality ti
 #### Unit Testing
 1. [Story Project Test](https://github.com/jsonolsen7/testing-intro)
 2. [Test Driven Dev - Zoo Inventory](https://github.com/jsonolsen7/zoo-inventory)
+
+### Week 5
+
+#### CICD/Jenkins & ISTQB Foundation
+1. Setup of Jenkins Project (private): ssh keys, webhooks, post-build actions, AWS
+2. Completed Testing Foundation course and practice exams
+
+### Week 6
+
+#### PostGres, MongoDB, and Testing
+1. [Parts Inventory](https://github.com/jsonolsen7/parts-inventory): CRUD, pytest, pytest-mongodb, Flask-PyMongo
+
+### Week 7
+
+#### Group Jenkins/Flask GoogleMaps API Project
+1. [GMaps API and Testing](https://github.com/nology-tech/ASML_NologyBot_TeamTwo) (private repo)
